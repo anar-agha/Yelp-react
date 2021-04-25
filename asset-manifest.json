@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Yelp-react/static/css/main.d5d951d5.chunk.css",
+    "main.js": "/Yelp-react/static/js/main.161f5007.chunk.js",
+    "main.js.map": "/Yelp-react/static/js/main.161f5007.chunk.js.map",
+    "runtime-main.js": "/Yelp-react/static/js/runtime-main.96967296.js",
+    "runtime-main.js.map": "/Yelp-react/static/js/runtime-main.96967296.js.map",
+    "static/js/2.cc83c543.chunk.js": "/Yelp-react/static/js/2.cc83c543.chunk.js",
+    "static/js/2.cc83c543.chunk.js.map": "/Yelp-react/static/js/2.cc83c543.chunk.js.map",
+    "static/js/3.c6e0dab6.chunk.js": "/Yelp-react/static/js/3.c6e0dab6.chunk.js",
+    "static/js/3.c6e0dab6.chunk.js.map": "/Yelp-react/static/js/3.c6e0dab6.chunk.js.map",
+    "index.html": "/Yelp-react/index.html",
+    "static/css/main.d5d951d5.chunk.css.map": "/Yelp-react/static/css/main.d5d951d5.chunk.css.map",
+    "static/js/2.cc83c543.chunk.js.LICENSE.txt": "/Yelp-react/static/js/2.cc83c543.chunk.js.LICENSE.txt",
+    "static/media/SearchBar.css": "/Yelp-react/static/media/background_search_mobile.bfe57261.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96967296.js",
+    "static/js/2.cc83c543.chunk.js",
+    "static/css/main.d5d951d5.chunk.css",
+    "static/js/main.161f5007.chunk.js"
+  ]
+}
